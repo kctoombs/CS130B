@@ -1,0 +1,4 @@
+#!/bin/bash
+#javac point.java
+#javac main.java
+java main $@
